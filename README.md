@@ -1,14 +1,14 @@
-# 🚗 Waze User Churn Prediction - Data Analysis Project
+# WAZE User Churn Prediction - Data Analysis Project
 > Google Advanced Data Analytics Certificate - Course 1 Final Project
 
 [![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-4285F4)]()
 [![PACE Framework](https://img.shields.io/badge/Methodology-PACE%20Framework-FF6B6B)]()
 [![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 
-## 🎯 Project Overview
+## * Project Overview
 As a **Data Analyst at Waze**, I'm developing a comprehensive project proposal to predict and prevent user churn. This project focuses on analyzing user behavior patterns to help Waze retain users and optimize the navigation experience.
 
-## 📊 Business Challenge
+## * Business Challenge
 Waze needs to understand and predict user churn to:
 - **Increase user retention** and reduce monthly churn rates
 - **Identify high-risk users** before they leave the platform  
