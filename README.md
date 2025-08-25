@@ -22,10 +22,12 @@ Waze needs to understand and predict user churn to:
 - **Execute**: Implement model and create actionable recommendations
 
 ## Project Structure
+```
 ├── notebooks/          # Jupyter notebooks for analysis
-├── reports/           # Project documentation and findings
+├── reports/           # Project documentation and findings  
 ├── data/             # Dataset (simulated for learning purposes)
 └── presentation/     # Final presentation materials
+```
 
 ## Expected Deliverables
 - [ ] **PACE Strategy Document** - Complete project planning framework
