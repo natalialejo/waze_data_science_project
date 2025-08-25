@@ -36,9 +36,9 @@ Waze needs to understand and predict user churn to:
 - [ ] **Churn Prediction Model** - ML model with performance metrics
 
 ## Stakeholder Collaboration
-**Data Team**: Harriet Hadzic (Director), May Santner (Manager), Chidi Ga (Senior Analyst)  
-**Project Management**: Sylvester Esperanza (Senior PM)  
-**Operations**: Emrick Larson (Finance), Ursula Sayo (Operations Manager)
+**Data Team**: Director, Manager, Senior Analyst   
+**Project Management**: Senior PM  
+**Operations**: Finance,Operations Manager
 
 ## Business Impact
 This project will help Waze:
